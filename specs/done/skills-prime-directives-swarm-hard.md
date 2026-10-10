@@ -1,6 +1,6 @@
 # PrimeDirectives and SwarmHard Skills
 
-Status: doing
+Status: done
 
 ## Work
 
