@@ -1,6 +1,6 @@
 # FinishIt Skill
 
-Status: doing
+Status: done
 
 ## Work
 
