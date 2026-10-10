@@ -1,6 +1,6 @@
 # PrimeDirectives
 
-Status: doing
+Status: done
 
 ## Work
 
