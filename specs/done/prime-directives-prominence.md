@@ -1,6 +1,6 @@
 # PrimeDirectives Prominence
 
-Status: doing
+Status: done
 
 ## Work
 
