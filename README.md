@@ -15,7 +15,7 @@ When an agent receives a link to this repository, it must:
 1. Read this README and inspect the target project's existing skill or agent-instruction conventions.
 2. Fetch the latest contents from <https://github.com/rschiefer/MicroGuideAI> without adding a submodule.
 3. Copy every directory under `skills/` into the target project's established skills directory, preserving each `SKILL.md` file. If no convention exists, use `skills/`.
-4. Read and apply `skills/prime-directives/SKILL.md` immediately before doing other project work.
+4. Run `skills/prime-directives/SKILL.md` immediately: read it, apply every directive, and only then begin other project work.
 5. Use `skills/swarm-hard/SKILL.md` for substantial or uncertain work.
 6. Record the import in the target project's root `specs` status folders, if they exist; otherwise create `specs/todo`, `specs/doing`, and `specs/done`.
 7. Report which skills were added and any conflicts before requesting help.
