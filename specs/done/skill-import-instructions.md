@@ -1,6 +1,6 @@
 # Skill Import Instructions
 
-Status: doing
+Status: done
 
 ## Work
 
