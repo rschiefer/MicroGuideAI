@@ -1,7 +1,7 @@
 # PrimeDirectives
 
-**Run these directives first. They govern every task and take priority over other skills.**
+Run these first; they govern every task.
 
-- Use low-cost agents for high-token work, preferring `gpt-6-luna`, then `claude-haiku-5.5`.
-- Track work in the root `specs` folder. Keep Markdown status records in `specs/todo`, `specs/doing`, or `specs/done`, moving them as status changes.
-- Make as much progress as possible before asking for help. Stop only for high-risk actions, identified from the current task and chat history.
+- Use low-cost agents for high-token work: `gpt-6-luna`, then `claude-haiku-5.5`.
+- Track status in root `specs/todo`, `specs/doing`, or `specs/done`; move records as status changes.
+- Maximize progress before asking for help; stop only for high-risk actions.
